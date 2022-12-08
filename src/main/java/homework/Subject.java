@@ -1,0 +1,9 @@
+package homework;
+
+public enum Subject {
+  SALESFORCE_PROGRAMMING,
+  ENGLISH,
+  JAVA_PROGRAMMING,
+  DOT_NET_APPLICATION,
+  PROJECT
+}
